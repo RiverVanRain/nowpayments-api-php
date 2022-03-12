@@ -1,7 +1,7 @@
 {
-  "name": "bearname/nowpayments-api-php",
-  "description": "Nowpayments php api",
-  "homepage": "https://github.com/bearname/nowpayments-api-php",
+  "name": "rivervanrain/nowpayments-api-php",
+  "description": "NOWPayments PHP API",
+  "homepage": "https://github.com/rivervanrain/nowpayments-api-php",
   "keywords": [
     "template",
     "composer",
@@ -21,7 +21,7 @@
     }
   ],
   "support": {
-    "source": "https://github.com/bearname/nowpayments-api-php",
+    "source": "https://github.com/rivervanrain/nowpayments-api-php",
     "docs": "https://github.com/bearname/nowpayments-api-php/blob/master/README.md",
     "issues": "https://github.com/bearname/nowpayments-api-php/issues"
   },
